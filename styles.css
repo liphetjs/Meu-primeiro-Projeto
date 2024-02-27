@@ -1,0 +1,9 @@
+        /*obrigatório ponto e vírgula ao final das propriedades*/
+
+/* o seletor *{} serve para TODA a página*/
+
+/* pode se aplicar o mesmo estilo para diferentes class e id separando os por vírgula(,) */
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+li:nth-child(3) {color: red;}
